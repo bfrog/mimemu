@@ -1,6 +1,6 @@
 # Museical
 
-A heapless musically inclined audio pipeline for audio
+A heapless musically inclined audio pipeline
 
 ## Why
 
