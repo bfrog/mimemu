@@ -1,4 +1,4 @@
-# Museical
+# Mimemu
 
 A heapless musically inclined audio pipeline
 
